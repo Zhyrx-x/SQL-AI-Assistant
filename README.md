@@ -1,5 +1,12 @@
 # QueryMate - AI Powered SQL Assistant  
 
+# SQL AI Assistant
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+An AI-powered SQL assistant built with Streamlit and Google Gemini.
+
+
 QueryMate is a **Streamlit app** powered by **Google Gemini** that converts **natural language questions** into **SQL queries** and executes them on a student database.  
 
 ---
