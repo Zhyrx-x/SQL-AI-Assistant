@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # QueryMate - AI Powered SQL Assistant  
 
 # SQL AI Assistant
