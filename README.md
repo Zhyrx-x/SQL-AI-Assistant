@@ -5,8 +5,6 @@
 
 # SQL AI Assistant
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 An AI-powered SQL assistant built with Streamlit and Google Gemini.
 
 
